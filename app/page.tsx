@@ -12,9 +12,9 @@ const Page = () => {
         <h1 className="text-4xl" style={welcomeTextStyle}>
           Welcome to{' '}
           <img
-            src="/chat4frnds.svg" // Stelle sicher, dass du das korrekte SVG-Bildpfad angibst
+            src="/chat4frnds.svg" 
             alt="Chat4Friends"
-            className="inline-block w-auto h-19" // Passe die Breite und Höhe nach Bedarf an
+            className="inline-block w-auto h-17" 
           />
         </h1>
         <p className="text-lg my-4">Where people connect around the world</p>
