@@ -26,9 +26,15 @@ body {
   ) rgb(10, 107, 77);
 }
 
+button {
+  margin:10px;
+}
+
+
+
 
 @layer utilities {
   .text-balance {
-    text-wrap:wrap;
+    text-wrap:balance;
   }
 }
